@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Paracetamol",
+        "url": "https://wellonapharma.com/admincms/product_img/product_resize_img/paracetamol-tablets_1618901822.jpg",
+        "price": "10.00"
+    },
+    {
+        "name": "Gudimune Syrub",
+        "url": "https://5.imimg.com/data5/HK/SU/ZT/ANDROID-3865479/product-jpeg-500x500.jpg",
+        "price": "50.00"  
+    },
+    {
+        "name": "Vicks Cough Syrub",
+        "url": "https://res.cloudinary.com/mtree/image/upload/f_auto,q_auto/Vicks_AU/en-au/-/media/Vicks_AU/Images/Callouts/AU/Desktop/Products/Vicks_AU_Cough_2in1_Syrup_front.jpg?h=400&la=en-AU&mw=400&w=400&v=1-202004091056",
+        "price": "70.00"
+    },
+    {
+        "name": "Zandu Palm",
+        "url": "https://www.fairprice365.in/wp-content/uploads/zandu-balm-600617_l.jpg",
+        "price": "20.50"
+    },
+    {
+        "name": "Moov Pain Relief",
+        "url": "https://www.netmeds.com/images/product-v1/600x600/15178/moov_pain_relief_specialist_cream_15_gm_1.jpg",
+        "price": "150.00"
+    },
+    {
+        "name": "Glucose",
+        "url": "https://m.media-amazon.com/images/I/51I5FHYMoCL._SL1000_.jpg",
+        "price": "100.00"
+    },
+    {
+        "name": "Sanitizer",
+        "url": "https://images-static.nykaa.com/media/catalog/product/8/9/8905110002840_1_.jpg",
+        "price": "200.00"
+    },
+    {
+        "name": "Mihron Iron Tablet",
+        "url": "https://5.imimg.com/data5/IW/NG/MY-26772028/iron-folic-acid-tablet-500x500.jpg",
+        "price": "40.00"
+    },
+    {
+        "name": "Johnson's Baby Soap",
+        "url": "https://amritsarstore.com/wp-content/uploads/2019/09/Johnson-Baby-Soap.jpg",
+        "price": "140.00"
+    },
+    {
+        "name": "Thyroxine Sodium Tablets",
+        "url": "https://newassets.apollo247.com/pub/media/catalog/product/e/l/elt0004.jpg",
+        "price": "100.00"
+    },
+    {
+        "name": "Bandages",
+        "url": "https://www.band-aid.com/sites/bandaid_us/files/styles/product_image/public/product-images/bab_381370044307_band_aid_band_aid_flexible_fabric_assorted_30ct_007.jpg",
+        "price": "80.00"
+    },
+    {
+        "name": "Halls",
+        "url": "https://5.imimg.com/data5/SELLER/Default/2020/9/WH/HM/MB/95281740/halls-candy-500x500.jpg",
+        "price": "1.00"
+    }
+    
+]
